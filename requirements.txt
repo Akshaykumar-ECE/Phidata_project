@@ -1,0 +1,12 @@
+phidata 
+python-dotenv
+<<<<<<< HEAD
+yfinance
+=======
+yfinanace
+>>>>>>> c7af1bc6b7ef8e3e0419b1bce930eceb136597ee
+packaging 
+duckduckgo-search
+fastapi
+uvicorn
+groq
